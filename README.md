@@ -24,9 +24,11 @@ For this exercise, I thought about using a **test case** to match all possible q
 
 The approach was similar to the first exercise, but in this case, I worked with grouping only by **year**. The average calculations were performed directly in the service.
 
-## Notes on Testing
+## Notes
 
 I would have liked to add automated tests to ensure code quality, but since I received the test quite late, just a day before the deadline, I ran out of available time. Even so, I made sure the code was as **"test-driven"** as possible, ensuring it would be easy to test in the future.
+
+Also, I wanted to add a logs to have a better visualization of whatever's happening in there but also ran out of time. There's a custome_logger.py which you can check
 
 FEEL FREE TO USE SWAGGER
 
