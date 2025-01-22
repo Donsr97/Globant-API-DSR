@@ -18,7 +18,7 @@ The project is divided into three main parts:
 
 ### Exercise 1
 
-For this exercise, I thought about using a **test case**, as I had never worked with data separation by quarters. However, I discovered that SQLAlchemy already has a built-in function (`extract("quarter",....)`), which made the task much easier. The only thing I had to do was apply the correct grouping after using this function.
+For this exercise, I thought about using a **test case** to match all possible quarters, as I had never worked with data separation by quarters. However, I discovered that SQLAlchemy already has a built-in function (`extract("quarter",....)`), which made the task much easier. The only thing I had to do was apply the correct grouping after using this function.
 
 ### Exercise 2
 
