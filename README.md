@@ -22,7 +22,7 @@ For this exercise, I thought about using a **test case**, as I had never worked 
 
 ### Exercise 2
 
-The approach was similar to the first exercise, but in this case, I worked with grouping by **year**. The average calculations were performed directly in the service.
+The approach was similar to the first exercise, but in this case, I worked with grouping only by **year**. The average calculations were performed directly in the service.
 
 ## Notes on Testing
 
