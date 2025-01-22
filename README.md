@@ -27,3 +27,7 @@ The approach was similar to the first exercise, but in this case, I worked with 
 ## Notes on Testing
 
 I would have liked to add automated tests to ensure code quality, but since I received the test quite late, just a day before the deadline, I ran out of available time. Even so, I made sure the code was as **"test-driven"** as possible, ensuring it would be easy to test in the future.
+
+FEEL FREE TO USE SWAGGER
+
+http://(LOCALHOST)/documentation#/
